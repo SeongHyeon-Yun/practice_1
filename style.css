@@ -1,0 +1,25 @@
+* {
+    text-decoration: none;
+    color: black;
+}
+
+.title {
+    text-align: center;
+}
+
+.text_menu {
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+.menus {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.content {
+    margin-top: 300px;
+    text-align: center;
+}
